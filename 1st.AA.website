@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Website Name</title>
+    </head>
+    <body>
+        <div>
+            <h1>fav characters</h1>
+
+            <div>
+                <h2>character 1</h2>
+                <p>
+                    why
+                </p>
+            </div>
+            <div>
+                <h2>character 1</h2>
+                <p>
+                    why
+                </p>
+            </div>
+            <div>
+                <h2>character 1</h2>
+                <p>
+                    why
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
